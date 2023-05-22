@@ -146,7 +146,7 @@ button:hover .fa-solid {
   }
 }
 
-@media (width <= 600px) {
+@media (width <= 880px) {
   body {
     background: url("./mobile-bg.jpg");
     background-size: cover;

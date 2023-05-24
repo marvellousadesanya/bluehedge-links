@@ -148,9 +148,10 @@ button:hover .fa-solid {
 
 @media (width <= 880px) {
   body {
-    background: url("./mobile-bg.jpg");
-    background-size: cover;
-    height: 100vh;
+    /* background: url("./mobile-bg.jpg"); */
+    background-color: #3b5998;
+    /* background-size: cover; */
+    height: 100%;
   }
   h1 {
     font-size: 2rem;

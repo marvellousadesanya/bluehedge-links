@@ -151,7 +151,7 @@ button:hover .fa-solid {
 }
 
 @media (width <= 880px) {
-  body {
+  .for-mobile {
     /* background: url("./mobile-bg.jpg"); */
     background-color: #3b5998;
     /* background-size: cover; */

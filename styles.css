@@ -19,6 +19,10 @@ main {
   border-radius: 50%;
 }
 
+h1 {
+  color: white;
+}
+
 h2 {
   font-weight: 500;
   color: #fff;
@@ -161,10 +165,10 @@ button:hover .fa-solid {
     height: 100%;
   }
   h1 {
-    font-size: 2rem;
+    font-size: 1rem;
   }
   section {
-    padding-top: 2rem;
+    padding-top: 0.5rem;
   }
   h2 {
     font-size: 1rem;

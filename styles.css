@@ -150,7 +150,7 @@ button:hover .fa-solid {
   }
 }
 
-@media screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .for-mobile {
     /* background: url("./mobile-bg.jpg"); */
     background-color: #3b5998;

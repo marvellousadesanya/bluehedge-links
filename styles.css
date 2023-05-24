@@ -2,12 +2,15 @@
 
 body {
   overflow: hidden;
+  background: url("./Atlantic.jpg");
+  background-size: cover;
 }
 
 main {
   display: flex;
   justify-content: center;
   align-items: center;
+
   font-family: "Poppins", sans-serif;
 }
 
@@ -152,9 +155,9 @@ button:hover .fa-solid {
 
 @media only screen and (max-width: 600px) {
   .for-mobile {
-    /* background: url("./mobile-bg.jpg"); */
-    background-color: #3b5998;
-    /* background-size: cover; */
+    background: url("./mobile-bg.jpg");
+    /* background-color: #3b5998; */
+    background-size: cover;
     height: 100%;
   }
   h1 {

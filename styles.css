@@ -153,21 +153,21 @@ button:hover .fa-solid {
     height: 100vh;
   }
   h1 {
-    font-size: 22px;
+    font-size: 2rem;
   }
   section {
-    padding-top: 30px;
+    padding-top: 2rem;
   }
   h2 {
-    font-size: 18px;
+    font-size: 1rem;
   }
   .address {
     font-size: 10px;
   }
 
   button {
-    width: 300px;
-    height: 40px;
+    width: 20rem;
+    height: 3rem;
     margin: 15px;
   }
 }

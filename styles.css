@@ -1,9 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,500&display=swap");
 
 body {
-  background: url("./Atlantic.jpg");
-  background-size: cover;
-
   overflow: hidden;
 }
 
@@ -143,6 +140,13 @@ button:hover .fa-solid {
 
   to {
     margin-top: 0px;
+  }
+}
+
+@media (width > 880px) {
+  body {
+    background: url("./Atlantic.jpg");
+    background-size: cover;
   }
 }
 

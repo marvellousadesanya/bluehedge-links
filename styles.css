@@ -98,6 +98,11 @@ button:hover .fa-solid {
   transition: all 0.2s linear;
 }
 
+button:hover .fa-regular {
+  transform: scale(1.5);
+  transition: all 0.2s linear;
+}
+
 #facebook:hover {
   background-color: #3b5998;
 }
@@ -129,8 +134,10 @@ button:hover .fa-solid {
 .address {
   width: 100%;
   background-color: white;
-  font-style: italic;
-  font-size: 12px;
+
+  /* font-style: italic; */
+  font-weight: 700;
+  font-size: 14px;
   position: fixed;
   bottom: 0;
   font-weight: 400;
